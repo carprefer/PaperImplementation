@@ -1,0 +1,6 @@
+[submodule "ThinkOnGraph"]
+	path = ThinkOnGraph
+	url = https://github.com/carprefer/ThinkOnGraph
+[submodule "GRetriever"]
+	path = GRetriever
+	url = https://github.com/carprefer/GRetriever
