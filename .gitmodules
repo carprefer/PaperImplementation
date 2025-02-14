@@ -4,3 +4,6 @@
 [submodule "GRetriever"]
 	path = GRetriever
 	url = https://github.com/carprefer/GRetriever
+[submodule "ReasoningOnGraphs"]
+	path = ReasoningOnGraphs
+	url = https://github.com/carprefer/ReasoningOnGraphs
